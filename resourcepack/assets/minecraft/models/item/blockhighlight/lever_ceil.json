@@ -1,0 +1,16 @@
+{
+    "parent": "block/lever",
+    "textures": {
+		"base": "block/blockhighlight/block_highlight",
+        "lever": "block/blockhighlight/block_highlight"
+    },
+	"ambientocclusion": false,
+	"display": {
+		"head": {
+			"rotation": [0,180,180],
+			"translation": [0,-14.5,-0.017],
+			"scale": [2.26,2.26,2.26]
+		}
+	}
+}
+  

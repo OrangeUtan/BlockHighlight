@@ -1,0 +1,20 @@
+{
+    "type":"minecraft:generic",
+    "pools":[
+        {
+            "functions":[
+                {
+                    "function":"set_nbt",
+                    "tag":"{CustomModelData:7770005, Tags:[\"blockhl.highlight\"]}"
+                }
+            ],
+            "rolls":1,
+            "entries":[
+                {
+					"type":"item",
+					"name": "minecraft:bread"
+                }
+            ]
+        }
+    ]
+}
