@@ -1,0 +1,1 @@
+data modify entity @s Glowing set value false
