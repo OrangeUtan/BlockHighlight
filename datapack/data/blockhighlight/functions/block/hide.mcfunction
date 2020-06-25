@@ -1,0 +1,1 @@
+execute align xyz positioned ~.5 ~ ~.5 as @e[type=armor_stand,distance=..0.1,tag=blockhl.highlight,limit=1] run function blockhighlight:highlight/hide
