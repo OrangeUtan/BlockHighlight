@@ -1,15 +1,11 @@
 {
     "parent": "block/lever",
-    "textures": {
-		"base": "block/block_highlight/block_highlight",
-        "lever": "block/block_highlight/block_highlight"
-    },
 	"ambientocclusion": false,
 	"display": {
 		"head": {
 			"rotation": [-90,0,0],
-			"translation": [0,-14.65,0.17],
-			"scale": [2.26,2.26,2.26]
+			"translation": [0,-14.7,-0.049],
+			"scale": [2.29,2.29,2.29]
 		}
 	}
 }
