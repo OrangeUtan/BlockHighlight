@@ -5,9 +5,9 @@
 			"condition": "minecraft:location_check",
 			"predicate": {
 			  "block": {
-				"tag": "blockhighlight:head",
+				"tag": "oran9eutan:block_highlight/head",
 				"state": {
-					"rotation": "3"
+					"rotation": "1"
 				}
 			  }
 			}
@@ -16,9 +16,9 @@
 			"condition": "minecraft:location_check",
 			"predicate": {
 			  "block": {
-				"tag": "blockhighlight:head",
+				"tag": "oran9eutan:block_highlight/head",
 				"state": {
-					"rotation": "7"
+					"rotation": "5"
 				}
 			  }
 			}
@@ -27,9 +27,9 @@
 			"condition": "minecraft:location_check",
 			"predicate": {
 			  "block": {
-				"tag": "blockhighlight:head",
+				"tag": "oran9eutan:block_highlight/head",
 				"state": {
-					"rotation": "11"
+					"rotation": "9"
 				}
 			  }
 			}
@@ -38,9 +38,9 @@
 			"condition": "minecraft:location_check",
 			"predicate": {
 			  "block": {
-				"tag": "blockhighlight:head",
+				"tag": "oran9eutan:block_highlight/head",
 				"state": {
-					"rotation": "15"
+					"rotation": "13"
 				}
 			  }
 			}
