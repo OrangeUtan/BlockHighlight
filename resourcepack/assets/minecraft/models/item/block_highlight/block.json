@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/blockhighlight/block_highlight"
+        "all": "block/block_highlight/block_highlight"
     },
 	"ambientocclusion": false,
 	"display": {

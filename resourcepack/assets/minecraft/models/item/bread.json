@@ -4,18 +4,18 @@
         "layer0": "item/bread"
     },
 	"overrides": [
-		{ "predicate": {"custom_model_data": 7770000 }, "model": "item/blockhighlight/block"},
-		{ "predicate": {"custom_model_data": 7770001 }, "model": "item/blockhighlight/block_recessed"},
+		{ "predicate": {"custom_model_data": 7770000 }, "model": "item/block_highlight/block"},
+		{ "predicate": {"custom_model_data": 7770001 }, "model": "item/block_highlight/block_recessed"},
 	
-		{ "predicate": {"custom_model_data": 7770002 }, "model": "item/blockhighlight/anvil"},
-		{ "predicate": {"custom_model_data": 7770003 }, "model": "item/blockhighlight/anvil_recessed"},
+		{ "predicate": {"custom_model_data": 7770002 }, "model": "item/block_highlight/anvil"},
+		{ "predicate": {"custom_model_data": 7770003 }, "model": "item/block_highlight/anvil_recessed"},
 	
-		{ "predicate": {"custom_model_data": 7770004 }, "model": "item/blockhighlight/lever_floor"},
-		{ "predicate": {"custom_model_data": 7770005 }, "model": "item/blockhighlight/lever_wall"},
-		{ "predicate": {"custom_model_data": 7770006 }, "model": "item/blockhighlight/lever_wall_powered"},
-		{ "predicate": {"custom_model_data": 7770007 }, "model": "item/blockhighlight/lever_ceil"},
+		{ "predicate": {"custom_model_data": 7770004 }, "model": "item/block_highlight/lever/floor"},
+		{ "predicate": {"custom_model_data": 7770005 }, "model": "item/block_highlight/lever/wall"},
+		{ "predicate": {"custom_model_data": 7770006 }, "model": "item/block_highlight/lever/wall_powered"},
+		{ "predicate": {"custom_model_data": 7770007 }, "model": "item/block_highlight/lever/ceil"},
 		
-		{ "predicate": {"custom_model_data": 7770008 }, "model": "item/blockhighlight/player_head"},
-		{ "predicate": {"custom_model_data": 7770009 }, "model": "item/blockhighlight/player_wall_head"}
+		{ "predicate": {"custom_model_data": 7770008 }, "model": "item/block_highlight/player_head"},
+		{ "predicate": {"custom_model_data": 7770009 }, "model": "item/block_highlight/player_wall_head"}
 	]
 }

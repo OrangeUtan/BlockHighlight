@@ -1,8 +1,8 @@
 {
     "parent": "block/lever",
     "textures": {
-		"base": "block/blockhighlight/block_highlight",
-        "lever": "block/blockhighlight/block_highlight"
+		"base": "block/block_highlight/block_highlight",
+        "lever": "block/block_highlight/block_highlight"
     },
 	"ambientocclusion": false,
 	"display": {

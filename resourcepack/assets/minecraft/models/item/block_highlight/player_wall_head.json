@@ -1,5 +1,5 @@
 {
-	"parent": "item/blockhighlight/player_head",
+	"parent": "item/block_highlight/player_head",
 	"ambientocclusion": false,
 	"display": {
 		"head": {
