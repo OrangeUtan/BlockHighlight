@@ -1,0 +1,13 @@
+{
+	"parent": "block/button",
+	"textures": {
+		"texture": "block/block_highlight/block_highlight"
+	},
+	"ambientocclusion": false,
+	"display": {
+		"head": {
+			"translation": [0,-14.78,0],
+			"scale": [2.27,2.27,2.27]
+		}
+	}
+}
