@@ -1,0 +1,17 @@
+{
+    "display": {
+		"title": "BlockHighlight",
+        "description": "Highlight blocks",
+        "icon": {
+            "item": "minecraft:spectral_arrow"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:oran9eutan",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
