@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"display": {
 		"head": {
-			"translation": [0,-14.7,-0.049],
-			"scale": [2.29,2.29,2.29]
+			"translation": [0,-14.7,0],
+			"scale": [2.27,2.27,2.27]
 		}
 	}
 }
