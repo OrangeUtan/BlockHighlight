@@ -16,6 +16,8 @@
 		{ "predicate": {"custom_model_data": 7770007 }, "model": "item/block_highlight/lever/ceil"},
 		
 		{ "predicate": {"custom_model_data": 7770008 }, "model": "item/block_highlight/player_head"},
-		{ "predicate": {"custom_model_data": 7770009 }, "model": "item/block_highlight/player_wall_head"}
+		{ "predicate": {"custom_model_data": 7770009 }, "model": "item/block_highlight/player_wall_head"},
+
+		{ "predicate": {"custom_model_data": 7770010 }, "model": "item/block_highlight/brewing_stand"}
 	]
 }
