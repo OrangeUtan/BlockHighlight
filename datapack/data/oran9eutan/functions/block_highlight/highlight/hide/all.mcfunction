@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=blockhl.highlight] run function oran9eutan:block_highlight/highlight/hide
