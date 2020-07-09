@@ -3,3 +3,4 @@ tellraw @a ["",{"text":"Uninstalling ","color":"gold"},{"text":"BlockHighlight "
 
 # Remove scoreboards
 scoreboard objectives remove blockhlCfg
+scoreboard objectives remove blockhlUsedCoS
