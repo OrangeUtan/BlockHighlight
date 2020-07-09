@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/block_highlight/block_highlight"
+    },
+	"ambientocclusion": false,
+	"display": {
+		"head": {
+			"translation": [0,-14.7,0],
+			"scale": [2.27,2.27,2.27]
+		}
+	}
+}

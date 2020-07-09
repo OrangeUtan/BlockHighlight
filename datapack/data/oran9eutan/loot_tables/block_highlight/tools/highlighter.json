@@ -1,0 +1,30 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:carrot_on_a_stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{Tag:[blockhl.tool, blockhl.tool.highlighter]}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": "Highlighter"
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								"Highlights block in LOS",
+								"Removes highlight from block in LOS"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

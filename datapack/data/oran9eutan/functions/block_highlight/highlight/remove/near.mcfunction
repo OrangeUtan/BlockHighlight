@@ -1,0 +1,7 @@
+execute if score #opt_near_radius blockhlCfg matches ..3 run kill @e[type=armor_stand,tag=blockhl.highlight, distance=..2]
+execute if score #opt_near_radius blockhlCfg matches 4..7 run kill @e[type=armor_stand,tag=blockhl.highlight, distance=..4]
+execute if score #opt_near_radius blockhlCfg matches 8..15 run kill @e[type=armor_stand,tag=blockhl.highlight, distance=..8]
+execute if score #opt_near_radius blockhlCfg matches 16..31 run kill @e[type=armor_stand,tag=blockhl.highlight, distance=..16]
+execute if score #opt_near_radius blockhlCfg matches 32..63 run kill @e[type=armor_stand,tag=blockhl.highlight, distance=..32]
+execute if score #opt_near_radius blockhlCfg matches 64..127 run kill @e[type=armor_stand,tag=blockhl.highlight, distance=..64]
+execute if score #opt_near_radius blockhlCfg matches 128.. run kill @e[type=armor_stand,tag=blockhl.highlight, distance=..128]

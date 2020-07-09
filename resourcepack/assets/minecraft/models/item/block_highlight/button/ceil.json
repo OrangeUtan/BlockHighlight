@@ -1,0 +1,14 @@
+{
+	"parent": "block/button",
+	"textures": {
+		"texture": "block/block_highlight/block_highlight"
+	},
+	"ambientocclusion": false,
+	"display": {
+		"head": {
+			"rotation": [0,180,180],
+			"translation": [0,-14.55,0],
+			"scale": [2.27,2.27,2.27]
+		}
+	}
+}
