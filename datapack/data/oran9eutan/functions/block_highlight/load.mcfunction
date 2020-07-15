@@ -2,8 +2,8 @@
 # executor: World
 
 # Install datapack if it is not already
-scoreboard objectives add blockhlCfg dummy
-execute unless score #installed_version blockhlCfg matches 10100 run function oran9eutan:block_highlight/install
+scoreboard objectives add blockhl.cfg dummy
+execute unless score #installed_version blockhl.cfg matches 10101 run function oran9eutan:block_highlight/install
 
 # Start loops
 function oran9eutan:block_highlight/loop/has_player_used_cos

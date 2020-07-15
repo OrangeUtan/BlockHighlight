@@ -1,9 +1,9 @@
 # Goodbye
-tellraw @a ["",{"text":"Uninstalling ","color":"gold"},{"text":"BlockHighlight ","color":"red"},{"text":"datapack version ","color":"gold"},{"score":{"name":"#installed_version","objective":"blockhlCfg"},"color":"red"}]
+tellraw @a[tag=!global.ignore,tag=!global.ignore.gui] ["",{"text":"Uninstalling ","color":"gold"},{"text":"BlockHighlight ","color":"red"},{"text":"datapack version ","color":"gold"},{"score":{"name":"#installed_version","objective":"blockhl.cfg"},"color":"red"}]
 
 # Remove scoreboards
-scoreboard objectives remove blockhlCfg
-scoreboard objectives remove blockhlUsedCoS
+scoreboard objectives remove blockhl.cfg
+scoreboard objectives remove blockhl.usedCoS
 
 # Remove teams
 team remove blockhl.aqua

@@ -1,6 +1,6 @@
 {
     "display": {
-		"title": [{"text": "BlockHighlight"}, {"text" : " v1.1.0", "color": "yellow"}],
+		"title": [{"text": "BlockHighlight"}, {"text" : " v1.1.1", "color": "yellow"}],
         "description": "Highlight blocks",
         "icon": {
             "item": "minecraft:spectral_arrow"

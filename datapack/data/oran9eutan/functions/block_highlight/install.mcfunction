@@ -1,7 +1,7 @@
 # Installs the datapack
 
 # Create scoreboards
-scoreboard objectives add blockhlUsedCoS minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add blockhl.usedCoS minecraft.used:minecraft.carrot_on_a_stick
 
 # Create teams
 team add blockhl.aqua
@@ -40,11 +40,11 @@ team modify blockhl.yellow color yellow
 
 # Init settings
 #define score_holder #opt_near_radius 
-scoreboard players set #opt_near_radius blockhlCfg 4
+scoreboard players set #opt_near_radius blockhl.cfg 4
 
 #define score_holder #opt_selected_color
-scoreboard players set #opt_selected_color blockhlCfg 14
+scoreboard players set #opt_selected_color blockhl.cfg 14
 
 # Set installed version
 #define score_holder #installed_version Indicating which version is installed
-scoreboard players set #installed_version blockhlCfg 10100
+scoreboard players set #installed_version blockhl.cfg 10101

@@ -1,4 +1,4 @@
-scoreboard players set @s blockhlUsedCoS 0
+scoreboard players set @s blockhl.usedCoS 0
 
 # Raycast for the block the Player is currently looking at
 execute anchored eyes run function oran9eutan:block_highlight/raycast/for_block
